@@ -1,0 +1,50 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Set-Cookie" />
+      <item value="{&quot;venus&quot;:&quot;event&quot;,&quot;session_id&quot;:2467662112491197,&quot;transaction&quot;:&quot;&quot;,&quot;sender&quot;:1583778719480540,&quot;plugindata&quot;:{&quot;data&quot;:{&quot;result&quot;:{&quot;cid&quot;:&quot;1968939836&quot;,&quot;event&quot;:&quot;incomingcall&quot;,&quot;username&quot;:&quot;1-564-4&quot;},&quot;videocall&quot;:&quot;event&quot;},&quot;plugin&quot;:&quot;venus.plugin.videocall&quot;},&quot;jsep&quot;:{&quot;type&quot;:&quot;offer&quot;,&quot;sdp&quot;:&quot;v=0\r\no=- 4072229149579735941 2 IN IP4 10.100.86.99\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video\r\na=msid-semantic: WMS venus\r\nm=audio 9 UDPTLSRTPSAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 10.100.86.99\r\na=sendrecv\r\na=mid:audio\r\na=rtcp-mux\r\na=ice-ufrag:JMac\r\na=ice-pwd:Y68qeu4L+w9g1pGsBh0Cr\r\na=ice-options:trickle\r\na=fingerprint:sha-256 E7:27:8B:62:12:47:2B:0F:7F:03:76:DE:E8:2D:23:3C:42:31:82:A9:AD:C0:80:32:2E:EB:02:02:9B:24:16:E5\r\na=setup:actpass\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=rtpmap:111 opus480002\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC16000\r\na=rtpmap:104 ISAC32000\r\na=rtpmap:9 G7228000\r\na=rtpmap:102 ILBC8000\r\na=rtpmap:0 PCMU8000\r\na=rtpmap:8 PCMA8000\r\na=rtpmap:106 CN32000\r\na=rtpmap:105 CN16000\r\na=rtpmap:13 CN8000\r\na=rtpmap:110 telephone-event48000\r\na=rtpmap:112 telephone-event32000\r\na=rtpmap:113 telephone-event16000\r\na=rtpmap:126 telephone-event8000\r\na=msid:venus venusa0\r\na=ssrc:1601045286 cname:venus\r\na=ssrc:1601045286 msid:venus venusa0\r\na=ssrc:1601045286 mslabel:venus\r\na=ssrc:1601045286 label:venusa0\r\na=candidate:1 1 udp 2013266431 127.0.0.1 60000 typ host\r\na=end-of-candidates\r\nm=video 9 UDPTLSRTPSAVPF 96 98 100\r\nc=IN IP4 10.100.86.99\r\na=sendrecv\r\na=mid:video\r\na=rtcp-mux\r\na=ice-ufrag:JMac\r\na=ice-pwd:Y68qeu4L+w9g1pGsBh0Cr\r\na=ice-options:trickle\r\na=fingerprint:sha-256 E7:27:8B:62:12:47:2B:0F:7F:03:76:DE:E8:2D:23:3C:42:31:82:A9:AD:C0:80:32:2E:EB:02:02:9B:24:16:E5\r\na=setup:actpass\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http:www.webrtc.orgexperimentsrtp-hdrextabs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:6 http:www.webrtc.orgexperimentsrtp-hdrextplayout-delay\r\na=rtpmap:96 VP890000\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtpmap:98 VP990000\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtpmap:100 H26490000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=fmtp:100 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=msid:venus venusv0\r\na=ssrc:3385148125 cname:venus\r\na=ssrc:3385148125 msid:venus venusv0\r\na=ssrc:3385148125 mslabel:venus\r\na=ssrc:3385148125 label:venusv0\r\na=candidate:1 1 udp 2013266431 127.0.0.1 60000 typ host\r\na=end-of-candidates\r\n&quot;},&quot;type&quot;:&quot;&quot;,&quot;receiving&quot;:false}" />
+      <item value="initialization script 'C:\Users\Administrator\AppData\Local\Temp\ijmiscinit1.gradle': 12: unexpected char: '\' @ line 12, column 78. ation.name, '__local_aars__:C.\mydemo\bu" />
+      <item value="Gradle sync started with IDEA sync" />
+      <item value="Compilation is not supported for following modules: react-native-orientation, react-native-svg, react-nativ" />
+      <item value="Key为空或者无效" />
+      <item value="NoClassDefFoundError: Failed resolution of: Landroid/app/NotificationChannel" />
+      <item value="get metaData of com.myapp failed" />
+      <item value="resource android:attr/colorError not found" />
+      <item value="change Long" />
+      <item value="lay Venue" />
+      <item value="Venue" />
+      <item value="kensence" />
+      <item value="splicer" />
+      <item value="chan" />
+      <item value="destchan" />
+      <item value="destchanid" />
+      <item value="{&quot;message&quot;:{&quot;function&quot;:&quot;medialink get all&quot;,&quot;status&quot;:{&quot;code&quot;:&quot;0&quot;,&quot;info&quot;:&quot;success&quot;},&quot;medialinks&quot;:[{&quot;id&quot;:&quot;ee 68 b 9 baba 0246 ee 9 ceb 22497 f 68 d 64 e&quot;,&quot;srcdevid&quot;:&quot;10112011101310000002&quot;,&quot;srcchanid&quot;:&quot;10112011101310000002&quot;,&quot;srcdevname&quot;:&quot;æåå¤´35&quot;,&quot;srcip&quot;:&quot;10112011101310000002&quot;,&quot;destdevid&quot;:&quot;5 ck Hz FQ Es S&quot;,&quot;destchanid&quot;:&quot;6 jrclf 4 Crw&quot;,&quot;destdevname&quot;:&quot;2&quot;,&quot;destip&quot;:&quot;10.110.50.2&quot;,&quot;linktype&quot;:&quot;28181&quot;},{&quot;id&quot;:&quot;et 6 Tkh Jdt P&quot;,&quot;srcdevid&quot;:&quot;Xi 6 iyohurv&quot;,&quot;srcchanid&quot;:&quot;s 6 tj Wfw Psn&quot;,&quot;srcdevname&quot;:&quot;WD-CNW 8302-3129&quot;,&quot;srcip&quot;:&quot;10.110.60.1&quot;,&quot;destdevid&quot;:&quot;Saj Uec 2 Zs 1&quot;,&quot;destchanid&quot;:&quot;EM Laf 5 e 2 tv&quot;,&quot;destdevname&quot;:&quot;WD-MII RX-1.6&quot;,&quot;destip&quot;:&quot;10.110.1.23&quot;,&quot;linktype&quot;:&quot;Decoder&quot;},{&quot;id&quot;:&quot;ox P+5 UF Oqi&quot;,&quot;srcdevid&quot;:&quot;10112011101310000001&quot;,&quot;srcchanid&quot;:&quot;10112011101310000001&quot;,&quot;srcdevname&quot;:&quot;æåæº33&quot;,&quot;srcip&quot;:&quot;10112011101310000001&quot;,&quot;destdevid&quot;:&quot;v 61 e+Mx 9 r R&quot;,&quot;destchanid&quot;:&quot;CA Pc-E Ojty&quot;,&quot;destdevname&quot;:&quot;1&quot;,&quot;destip&quot;:&quot;10.110.50.1&quot;,&quot;linktype&quot;:&quot;28181&quot;},{&quot;id&quot;:&quot;tb Ky Xtj Ktg&quot;,&quot;srcdevid&quot;:&quot;10112011101310000001&quot;,&quot;srcchanid&quot;:&quot;10112011101310000001&quot;,&quot;srcdevname&quot;:&quot;æåæº33&quot;,&quot;srcip&quot;:&quot;10112011101310000001&quot;,&quot;destdevid&quot;:&quot;o DJY Ui 7 orp&quot;,&quot;destchanid&quot;:&quot;sl 0 Aq Ko Dsy&quot;,&quot;destdevname&quot;:&quot;3&quot;,&quot;destip&quot;:&quot;10.110.50.3&quot;,&quot;linktype&quot;:&quot;28181&quot;},{&quot;id&quot;:&quot;ux Q Nz T 3 Bt W&quot;,&quot;srcdevid&quot;:&quot;10112011101310000001&quot;,&quot;srcchanid&quot;:&quot;10112011101310000001&quot;,&quot;srcdevname&quot;:&quot;æåæº33&quot;,&quot;srcip&quot;:&quot;10112011101310000001&quot;,&quot;destdevid&quot;:&quot;b YGJ 22 T Vt F&quot;,&quot;destchanid&quot;:&quot;3 FU Jq JG Qt 4&quot;,&quot;destdevname&quot;:&quot;4&quot;,&quot;destip&quot;:&quot;10.110.50.4&quot;,&quot;linktype&quot;:&quot;28181&quot;}]}}" />
+      <item value="protocol" />
+      <item value="bandwidth" />
+      <item value="VIDEO RES" />
+      <item value="VIDEO RES NAIL" />
+      <item value="NAIL" />
+      <item value="afterwards" />
+      <item value="observer" />
+      <item value="Main Thread" />
+      <item value="Defines" />
+      <item value="Removes the given observer from the observers list. * &lt;p&gt; * If this method is called while a state change is being dispatched, * &lt;ul&gt; * &lt;li&gt;If the given observer has not yet received that event, it will not receive it. * &lt;li&gt;If the given observer has more than 1 method that observes the currently dispatched * event and at least one of them received the event, all of them will receive the event and * the removal will happen afterwards. * &lt;/ul&gt;" />
+      <item value="remove Observer" />
+      <item value="Lifecycle" />
+      <item value="abstract" />
+      <item value="Lifecycle Observer" />
+      <item value="zero" />
+      <item value="Default Lifecycle Observer" />
+      <item value="hello" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1650620575506" />
+  </component>
+</application>
